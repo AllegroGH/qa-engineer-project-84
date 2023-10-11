@@ -3,6 +3,8 @@ name: Alex Makovka # ваше имя
 job: QA Engineer
 level: junior
 email: amakovka@hexlet
-description: 
+description: |
+  Обучаюсь на платформе hexlet.io.
+  Это мой учебный проект.
 skills:
   - базовые навыки тестирования
